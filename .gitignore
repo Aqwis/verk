@@ -65,3 +65,6 @@ UD/*
 dusken/*
 env/*
 output.txt
+data.pickle
+zip.tar.gz
+zip/

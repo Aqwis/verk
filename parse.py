@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import string
+import pickle
 import sys
 import csv
 
@@ -48,24 +49,29 @@ def extract_names(words):
 			already_added_indexes.append(word)
 
 			i = 1
-			nextWord = strip_word(words[w+i])
-			while is_word_potential_name(nextWord):
-				notPartOfName = False
-				for punctuation in string.punctuation:
-					if punctuation in words[w+i-1]:
-						notPartOfName = True
-						break
-				if notPartOfName:
-					break
 
-				if nextWord in forbidden_words:
-					break
-
-				full_name.append(nextWord)
-				already_added_indexes.append(nextWord)
-
-				i = i + 1
+			if w+1 < len(words):
 				nextWord = strip_word(words[w+i])
+				while is_word_potential_name(nextWord):
+					notPartOfName = False
+					for punctuation in string.punctuation:
+						if punctuation in words[w+i-1]:
+							notPartOfName = True
+							break
+					if notPartOfName:
+						break
+
+					if nextWord in forbidden_words:
+						break
+
+					full_name.append(nextWord)
+					already_added_indexes.append(nextWord)
+
+					i = i + 1
+
+					if w+1 >= len(words):
+						break
+					nextWord = strip_word(words[w+i])
 
 			names.append(" ".join(full_name))
 
@@ -93,9 +99,10 @@ def import_forbidden_words(filename):
 			words.append(row[0])
 	return words
 
-def main():
+def read_words_from_files():
 	file_contents = []
-	for filename in sys.argv[1:]:
+	for filename in sys.argv[2:]:
+		print('l')
 		f = open(filename)
 		html = f.read()
 
@@ -105,7 +112,11 @@ def main():
 		if len(contents_list) > 1:
 		    raise Exception()
 
-		contents = contents_list[0]
+		try:
+			contents = contents_list[0]
+		except:
+			print("Failure!")
+			continue
 		try:
 		    contents.find(class_='factboxcontainer').decompose()
 		except:
@@ -119,8 +130,26 @@ def main():
 	text = ' '.join(text.split())
 	words = text.split(' ')
 
-	names = extract_names(words)
+	with open('data.pickle', 'wb') as f:
+		pickle.dump(words, f, pickle.HIGHEST_PROTOCOL)
 
+	return words
+
+def read_words_from_pickle():
+	with open('data.pickle', 'rb') as f:
+		words = pickle.load(f)
+		return words
+
+def main():
+	words = []
+	if sys.argv[1] == "pickle":
+		words = read_words_from_pickle();
+	elif sys.argv[1] == "html":
+		words = read_words_from_files()
+	else:
+		raise Exception("First argument must be \"html\" or \"pickle\".")
+
+	names = extract_names(words)
 	print(Counter(names))
 
 if __name__ == "__main__":
