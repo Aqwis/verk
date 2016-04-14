@@ -5,6 +5,10 @@ import pickle
 import sys
 import csv
 
+import networkx as nx
+#import matplotlib.pyplot as mpl
+
+from collections import defaultdict
 from bs4 import BeautifulSoup
 from collections import Counter
 
@@ -32,7 +36,7 @@ def strip_word(word):
 	return ''.join([l for l in word if l.isalpha()])
 
 def extract_names(words):
-	names = []
+	names = defaultdict(list)
 	already_added_indexes = []
 
 	first_names = import_first_names('fornavn.csv')
@@ -44,9 +48,12 @@ def extract_names(words):
 		if not is_word_potential_name(word):
 			continue
 
+		if w in already_added_indexes:
+			continue
+
 		if word in first_names:
 			full_name = [word]
-			already_added_indexes.append(word)
+			already_added_indexes.append(w)
 
 			i = 1
 
@@ -65,7 +72,7 @@ def extract_names(words):
 						break
 
 					full_name.append(nextWord)
-					already_added_indexes.append(nextWord)
+					already_added_indexes.append(w+i)
 
 					i = i + 1
 
@@ -73,9 +80,29 @@ def extract_names(words):
 						break
 					nextWord = strip_word(words[w+i])
 
-			names.append(" ".join(full_name))
+			full_name = " ".join(full_name)
+			names[full_name].append(w)
+		already_added_indexes = already_added_indexes[-10:]
 
 	return names
+
+def create_graph(words):
+	nodes = set()
+	edges = set()
+	edge_weights = defaultdict(lambda: 0)
+	for i in words:
+		for j in words:
+			if i == j:
+				continue
+			for loc_i in words[i]:
+				for loc_j in words[j]:
+					if abs(loc_i - loc_j) < 30:
+						edge_set = frozenset([str(i), str(j)])
+						edges.add(edge_set)
+						edge_weights[edge_set] = edge_weights[edge_set] + 1
+						nodes.add(i)
+						nodes.add(j)
+	return (nodes, edges, edge_weights)
 
 def import_first_names(filename):
 	words = []
@@ -140,6 +167,18 @@ def read_words_from_pickle():
 		words = pickle.load(f)
 		return words
 
+def plot_graph(edge_weights):
+	G = nx.Graph()
+	for edge in edge_weights:
+		left = list(edge)[0]
+		right = list(edge)[1]
+		weight = edge_weights[edge]
+
+		G.add_edge(left, right, weight=weight)
+	
+	G = nx.convert_node_labels_to_integers(G)
+	nx.draw(G, 'graph.png', format='png', prog='neato')
+
 def main():
 	words = []
 	if sys.argv[1] == "pickle":
@@ -150,7 +189,13 @@ def main():
 		raise Exception("First argument must be \"html\" or \"pickle\".")
 
 	names = extract_names(words)
-	print(Counter(names))
+	(nodes, edges, edge_weights) = create_graph(names)
+	plot_graph(edge_weights)
+
+	edge_list = [(edge, edge_weights[edge]) for edge in edge_weights]
+	edge_list = sorted(edge_list, key=lambda x: x[1])
+
+	print(edge_list)
 
 if __name__ == "__main__":
 	main()
