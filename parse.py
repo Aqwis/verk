@@ -76,7 +76,7 @@ def extract_names(words):
 
 					i = i + 1
 
-					if w+1 >= len(words):
+					if w+i >= len(words):
 						break
 					nextWord = strip_word(words[w+i])
 
@@ -86,22 +86,38 @@ def extract_names(words):
 
 	return names
 
-def create_graph(words):
+def extract_names_from_files(words_by_file):
+	names_by_file = []
+	for f in words_by_file:
+		names_by_file.append(extract_names(f))
+	return names_by_file
+
+def remove_incorrect_names(names_by_file):
+	new_names_by_file = []
+	for names in names_by_file:
+		names_in_file = defaultdict(list)
+		for name in names:
+			if len(name.split()) > 1:
+				names_in_file[name] = names[name]
+		new_names_by_file.append(names_in_file)
+	return new_names_by_file
+
+def create_graph(names_by_file):
 	nodes = set()
 	edges = set()
 	edge_weights = defaultdict(lambda: 0)
-	for i in words:
-		for j in words:
-			if i == j:
-				continue
-			for loc_i in words[i]:
-				for loc_j in words[j]:
-					if abs(loc_i - loc_j) < 30:
-						edge_set = frozenset([str(i), str(j)])
-						edges.add(edge_set)
-						edge_weights[edge_set] = edge_weights[edge_set] + 1
-						nodes.add(i)
-						nodes.add(j)
+	for names in names_by_file:
+		for i in names:
+			for j in names:
+				if i == j:
+					continue
+				else:
+					edge_set = frozenset([str(i), str(j)])
+					edges.add(edge_set)
+					edge_weights[edge_set] = edge_weights[edge_set] + 1
+					nodes.add(i)
+					nodes.add(j)
+	edge_weights = {k: edge_weights[k]/2 for k in edge_weights}
 	return (nodes, edges, edge_weights)
 
 def import_first_names(filename):
@@ -153,19 +169,18 @@ def read_words_from_files():
 
 		file_contents.append(text)
 
-	text = ' '.join(file_contents)
-	text = ' '.join(text.split())
-	words = text.split(' ')
+	file_contents = [' '.join(f.split()) for f in file_contents]
+	words_by_file = [f.split(' ') for f in file_contents]
 
 	with open('data.pickle', 'wb') as f:
-		pickle.dump(words, f, pickle.HIGHEST_PROTOCOL)
+		pickle.dump(words_by_file, f, pickle.HIGHEST_PROTOCOL)
 
-	return words
+	return words_by_file
 
 def read_words_from_pickle():
 	with open('data.pickle', 'rb') as f:
-		words = pickle.load(f)
-		return words
+		words_by_file = pickle.load(f)
+		return words_by_file
 
 def plot_graph(edge_weights):
 	G = nx.Graph()
@@ -179,21 +194,34 @@ def plot_graph(edge_weights):
 	G = nx.convert_node_labels_to_integers(G)
 	nx.draw(G, 'graph.png', format='png', prog='neato')
 
+def export_to_csv(edge_weights):
+	with open('graph.csv', 'wt') as f:
+		print('Source;Target;Weight;Type', file=f)
+		for edge in edge_weights:
+			left = list(edge)[0]
+			right = list(edge)[1]
+			weight = edge_weights[edge]
+
+			if weight > 0:
+				print(left + ';' + right + ';' + str(int(weight)) + ";Undirected", file=f)
+
 def main():
-	words = []
+	words_by_file = []
 	if sys.argv[1] == "pickle":
-		words = read_words_from_pickle();
+		words_by_file = read_words_from_pickle();
 	elif sys.argv[1] == "html":
-		words = read_words_from_files()
+		words_by_file = read_words_from_files()
 	else:
 		raise Exception("First argument must be \"html\" or \"pickle\".")
 
-	names = extract_names(words)
+	names = extract_names_from_files(words_by_file)
+	names = remove_incorrect_names(names)
 	(nodes, edges, edge_weights) = create_graph(names)
-	plot_graph(edge_weights)
 
 	edge_list = [(edge, edge_weights[edge]) for edge in edge_weights]
 	edge_list = sorted(edge_list, key=lambda x: x[1])
+
+	export_to_csv(edge_weights)
 
 	print(edge_list)
 
