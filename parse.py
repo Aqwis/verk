@@ -10,6 +10,7 @@ import networkx as nx
 
 from collections import defaultdict
 from bs4 import BeautifulSoup
+from more_itertools import unique_everseen
 from collections import Counter
 
 def is_word_potential_name(word):
@@ -34,6 +35,18 @@ def is_word_potential_name(word):
 
 def strip_word(word):
 	return ''.join([l for l in word if l.isalpha()])
+
+def extract_predefined_names(words):
+	names = defaultdict(list)
+	text = ' '.join(words)
+
+	predefined_names = import_predefined_names('names.csv')
+
+	for name in predefined_names:
+		if name in text:
+			names[name].append(1)
+
+	return names
 
 def extract_names(words):
 	names = defaultdict(list)
@@ -92,6 +105,12 @@ def extract_names_from_files(words_by_file):
 		names_by_file.append(extract_names(f))
 	return names_by_file
 
+def extract_predefined_names_from_files(words_by_file):
+	names_by_file = []
+	for f in words_by_file:
+		names_by_file.append(extract_predefined_names(f))
+	return names_by_file
+
 def remove_incorrect_names(names_by_file):
 	new_names_by_file = []
 	for names in names_by_file:
@@ -101,6 +120,28 @@ def remove_incorrect_names(names_by_file):
 				names_in_file[name] = names[name]
 		new_names_by_file.append(names_in_file)
 	return new_names_by_file
+
+def remove_one_article_predefined_names(names_by_file):
+	occurrence = defaultdict(lambda: 0)
+	predefined_names = import_predefined_names('names.csv')
+
+	for f in names_by_file:
+		for name in predefined_names:
+			if name in f:
+				occurrence[name] = occurrence[name] + 1
+
+	single_occurrence_names = [name for name in occurrence if occurrence[name] < 2]
+
+	deleted = 0
+
+	for fi in range(len(names_by_file)):
+		for name in single_occurrence_names:
+			if name in names_by_file[fi]:
+				deleted = deleted + 1
+				del names_by_file[fi][name]
+	print("deleted " + str(deleted) + " names")
+
+	return names_by_file
 
 def create_graph(names_by_file):
 	nodes = set()
@@ -136,11 +177,23 @@ def import_forbidden_words(filename):
 	with open(filename) as f:
 		reader = csv.reader(f)
 		for row in reader:
-			if not row[0].isalpha():
+			if not row[0][0].isalpha():
 				continue
 
 			words.append(row[0])
 	return words
+
+def import_predefined_names(filename):
+	names = []
+	with open(filename) as f:
+		reader = csv.reader(f)
+		for row in reader:
+			if not row[0][0].isalpha():
+				continue
+
+			names.append(row[0])
+	names = list(unique_everseen(names))
+	return names
 
 def read_words_from_files():
 	file_contents = []
@@ -214,8 +267,9 @@ def main():
 	else:
 		raise Exception("First argument must be \"html\" or \"pickle\".")
 
-	names = extract_names_from_files(words_by_file)
+	names = extract_predefined_names_from_files(words_by_file)
 	names = remove_incorrect_names(names)
+	names = remove_one_article_predefined_names(names)
 	(nodes, edges, edge_weights) = create_graph(names)
 
 	edge_list = [(edge, edge_weights[edge]) for edge in edge_weights]
