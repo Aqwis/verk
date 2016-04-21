@@ -6,7 +6,6 @@ import sys
 import csv
 
 import networkx as nx
-#import matplotlib.pyplot as mpl
 
 from collections import defaultdict
 from bs4 import BeautifulSoup
@@ -261,21 +260,21 @@ def export_to_csv(edge_weights):
 def main():
 	words_by_file = []
 	if sys.argv[1] == "pickle":
-		words_by_file = read_words_from_pickle();
+		words_by_file = read_words_from_pickle()
 	elif sys.argv[1] == "html":
 		words_by_file = read_words_from_files()
 	else:
 		raise Exception("First argument must be \"html\" or \"pickle\".")
 
-	names = extract_predefined_names_from_files(words_by_file)
-	names = remove_incorrect_names(names)
-	names = remove_one_article_predefined_names(names)
-	(nodes, edges, edge_weights) = create_graph(names)
+	names = extract_predefined_names_from_files(words_by_file) # Find the names in each article
+	names = remove_incorrect_names(names) # Remove non-names according to a set of criteria
+	names = remove_one_article_predefined_names(names) # Remove names that only occur in one article
+	(nodes, edges, edge_weights) = create_graph(names) # Create graph of names
 
 	edge_list = [(edge, edge_weights[edge]) for edge in edge_weights]
 	edge_list = sorted(edge_list, key=lambda x: x[1])
 
-	export_to_csv(edge_weights)
+	export_to_csv(edge_weights) # Export graph to CSV
 
 	print(edge_list)
 
