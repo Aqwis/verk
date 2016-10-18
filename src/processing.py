@@ -20,8 +20,9 @@ def extract_predefined_names_from_files(words_by_file):
 def extract_predefined_names(words):
 	names = defaultdict(list)
 	text = ' '.join(words)
+	arguments = parse_arguments()
 
-	predefined_names = import_predefined_names('names.csv')
+	predefined_names = import_predefined_names(arguments.names)
 
 	for name in predefined_names:
 		if name in text:
