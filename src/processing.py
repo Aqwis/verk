@@ -2,8 +2,9 @@ import string
 import networkx as nx
 
 from collections import defaultdict
-from input import import_predefined_names
-from util import parse_arguments
+
+from .input import import_predefined_names
+from .util import parse_arguments
 
 def extract_names(words_by_file):
 	names = extract_predefined_names_from_files(words_by_file) # Find the names in each article

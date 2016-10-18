@@ -3,10 +3,10 @@
 import sys
 import os.path
 
-from util import parse_arguments, files_in_directory, edge_weights_to_list, create_graph
-from input import read_words_from_files, read_words_from_pickle
-from output import export_to_csv, save_words_to_pickle
-from processing import extract_names
+from .util import parse_arguments, files_in_directory, edge_weights_to_list, create_graph
+from .input import read_words_from_files, read_words_from_pickle
+from .output import export_to_csv, save_words_to_pickle
+from .processing import extract_names
 
 def main():
 	arguments = parse_arguments()

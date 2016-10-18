@@ -5,7 +5,7 @@ import csv
 from bs4 import BeautifulSoup
 from more_itertools import unique_everseen
 
-from util import parse_arguments
+from .util import parse_arguments
 
 def import_first_names(filename):
 	words = []
