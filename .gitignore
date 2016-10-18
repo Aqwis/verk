@@ -68,3 +68,11 @@ output.txt
 data.pickle
 zip.tar.gz
 zip/
+*.png
+*.svg
+graph.csv
+graph_old.csv
+.DS_Store
+*.pickle
+*.gephi*
+names.csv
