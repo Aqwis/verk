@@ -14,7 +14,7 @@ def parse_arguments():
 	parser.add_argument("-v", "--verbose", help="display more messages during runtime", action="store_true")
 	parser.add_argument("-c", "--clean", help="discard cache and reread every source file", action="store_true")
 	parser.add_argument("-n", "--names", help="specify file containing predefined names", default="names.csv")
-	parser.add_argument("-p", "--parser", help="specify parser used to parser source files if not plain text")
+	parser.add_argument("-p", "--parser", help="specify parser used to parser source files if not plain text", default="default")
 	return parser.parse_args()
 
 def files_in_directory(directory):
