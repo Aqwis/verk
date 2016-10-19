@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="text/ecmascript"
+   width="281.554"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-153.553986 -155.499298 281.553986 290.995758"
+   height="290.99576"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg3891"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="forsok3.svg">
+  <metadata
+     id="metadata4406">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4404" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="954"
+     id="namedview4402"
+     showgrid="false"
+     inkscape:zoom="2.5842301"
+     inkscape:cx="140.77699"
+     inkscape:cy="145.49788"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="node-labels" />
+  <g
+     id="edges">
+    <path
+       d="M -72.175606,-143.578125 C -66.357086,-141.125824 -61.307747,-128.719604 -63.760040,-122.901085"
+       class="Martin Næss 0"
+       id="path3894"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -16.692242,94.386566 C -8.582722,82.631874 21.213600,77.164108 32.968296,85.273628"
+       class="Morten Djupdal Jone Trovåg"
+       id="path3896"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 73.084984,-49.510906 C 67.495560,-25.342155 22.858284,2.526833 -1.310466,-3.062595"
+       class="Håvard Bertelsen Elise Landsem"
+       id="path3898"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 20.609463,-39.839691 C 47.475967,-54.982990 110.490662,-37.398190 125.633965,-10.531688"
+       class="Nicholas Christiansen Knut Jørgen Vie"
+       id="path3900"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 1.087985,-130.746536 C -2.943182,-130.581314 -9.237770,-136.380234 -9.402995,-140.411392"
+       class="Magnus Bjerke Johan Møkkerbakken"
+       id="path3902"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 76.646988,-56.866837 60.349705,11.212608 32.224129,28.473330"
+       class="Øyvind Bentås Gunnar Bovim"
+       id="path3904"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa6ff"
+       fill="none" />
+    <path
+       d="M 69.459244,57.790588 C 63.580921,61.051624 49.871887,57.125690 46.610851,51.247368"
+       class="Arvid Hallén Øystein Risa"
+       id="path3906"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 63.632889,-56.467106 27.214848,-7.309213 -1.310466,-3.062595"
+       class="Øyvind Bentås Elise Landsem"
+       id="path3908"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -48.343674,-9.959024 -46.433220,18.754919 -55.367714,28.963051"
+       class="1 Kim Allgot"
+       id="path3910"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -42.105213,-2.900748 -41.424492,45.758289 -57.417263,62.204880"
+       class="1 Dennis Bogen"
+       id="path3912"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 69.459244,57.790588 C 81.795067,55.611126 103.567986,70.845650 105.747452,83.181473"
+       class="Arvid Hallén Petter Aaslestad"
+       id="path3914"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M 69.459244,57.790588 C 67.657661,70.585388 45.763096,87.075211 32.968296,85.273628"
+       class="Arvid Hallén Jone Trovåg"
+       id="path3916"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M 32.224129,28.473330 C 47.249886,18.628515 84.555740,26.399927 94.400558,41.425682"
+       class="Gunnar Bovim Torbjørn Røe Isaksen"
+       id="path3918"
+       stroke-opacity="0.64705884"
+       stroke-width="2.4"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M 58.229492,114.141708 C 35.894745,102.209106 20.291525,50.808079 32.224129,28.473330"
+       class="Knut Solberg Gunnar Bovim"
+       id="path3920"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M 59.604534,-63.520866 C 65.102615,-63.414967 73.190887,-55.008987 73.084984,-49.510906"
+       class="Jarle Møller Håvard Bertelsen"
+       id="path3922"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 18.873526,-117.764885 C 31.890903,-125.422905 62.903999,-117.383865 70.562019,-104.366486"
+       class="Per Fridtjof Larssen Marius Jones"
+       id="path3924"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -19.414354,-16.364111 35.497704,46.136181 32.968296,85.273628"
+       class="1 Jone Trovåg"
+       id="path3926"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -43.689056,100.730026 C -31.448866,82.307281 14.545546,73.033432 32.968296,85.273628"
+       class="Dag Waaler Jone Trovåg"
+       id="path3928"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -16.692242,94.386566 C -37.512039,89.036957 -60.717323,49.782848 -55.367714,28.963051"
+       class="Morten Djupdal Kim Allgot"
+       id="path3930"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -16.692242,94.386566 C -31.273582,96.095230 -55.708595,76.786224 -57.417263,62.204880"
+       class="Morten Djupdal Dennis Bogen"
+       id="path3932"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -1.310466,-3.062595 C -5.716786,14.153984 -38.151134,33.369373 -55.367714,28.963051"
+       class="Elise Landsem Kim Allgot"
+       id="path3934"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -57.417263,62.204880 C -85.622009,68.274796 -137.034012,35.072575 -143.103928,6.867829"
+       class="Dennis Bogen Didrik Leganger"
+       id="path3936"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -7.585449,-25.412355 C 11.153605,-22.597134 35.039352,9.734276 32.224129,28.473330"
+       class="Eivind Rindal Gunnar Bovim"
+       id="path3938"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#a9a47f"
+       fill="none" />
+    <path
+       d="M 7.452073,-89.773628 C 4.138112,-97.656174 10.990984,-114.450928 18.873526,-117.764885"
+       class="Jo Jakobsen Per Fridtjof Larssen"
+       id="path3940"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#39c27f"
+       fill="none" />
+    <path
+       d="M -7.585449,-25.412355 C -1.860500,-22.197401 1.904489,-8.787543 -1.310466,-3.062595"
+       class="Eivind Rindal Elise Landsem"
+       id="path3942"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#39c27f"
+       fill="none" />
+    <path
+       d="M -57.417263,62.204880 C -88.348022,57.220158 -127.267075,3.346951 -122.282356,-27.583807"
+       class="Dennis Bogen Adrian Austevoll"
+       id="path3944"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -110.044937,79.523529 -91.064560,0.965646 -58.551804,-18.893520"
+       class="Jonathan Sørfonden 1"
+       id="path3946"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -72.175606,-143.578125 C -57.138325,-142.408691 -36.336544,-118.098618 -37.505978,-103.061325"
+       class="Martin Næss Gabriel Qvigstad"
+       id="path3948"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -43.689056,100.730026 C -60.378181,88.712364 -67.385376,45.652176 -55.367714,28.963051"
+       class="Dag Waaler Kim Allgot"
+       id="path3950"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -9.402995,-140.411392 C -26.614433,-121.231995 -81.200668,-118.280060 -100.380066,-135.491501"
+       class="Johan Møkkerbakken Eskild Bakke"
+       id="path3952"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -36.598873,127.964775 C -31.223667,105.513107 10.516631,79.898422 32.968296,85.273628"
+       class="Erling Landet Jone Trovåg"
+       id="path3954"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 69.459244,57.790588 C 56.148769,59.374157 33.807697,41.783802 32.224129,28.473330"
+       class="Arvid Hallén Gunnar Bovim"
+       id="path3956"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M 1.087985,-130.746536 C -1.093765,-117.490700 -24.250143,-100.879570 -37.505978,-103.061325"
+       class="Magnus Bjerke Gabriel Qvigstad"
+       id="path3958"
+       stroke-opacity="0.64705884"
+       stroke-width="2.4"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -43.689056,100.730026 C -50.727146,112.290627 -78.625175,119.074379 -90.185776,112.036285"
+       class="Dag Waaler Jonathan Sørfonden"
+       id="path3960"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 58.229492,114.141708 C 59.586620,118.771133 54.678177,127.750961 50.048748,129.108093"
+       class="Knut Solberg Bjørn Haugstad"
+       id="path3962"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -36.598873,127.964775 C -39.333187,117.267807 -27.389210,97.120888 -16.692242,94.386566"
+       class="Erling Landet Morten Djupdal"
+       id="path3964"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -72.175606,-143.578125 C -72.082466,-125.595070 -98.917343,-98.480782 -116.900391,-98.387642"
+       class="Martin Næss Morten Wold"
+       id="path3966"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -114.601830,29.951986 C -102.952789,17.907375 -67.412323,17.314014 -55.367714,28.963051"
+       class="Daniel Westervik Kim Allgot"
+       id="path3968"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -114.601830,29.951986 C -96.714340,24.965652 -62.403603,44.317390 -57.417263,62.204880"
+       class="Daniel Westervik Dennis Bogen"
+       id="path3970"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -107.587189,-1.267363 -122.604324,-17.250412 -122.282356,-27.583807"
+       class="Thor Haugen Adrian Austevoll"
+       id="path3972"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 124.540321,67.621063 C 109.128502,51.771786 109.784691,4.880133 125.633965,-10.531688"
+       class="Vegard Vefring Knut Jørgen Vie"
+       id="path3974"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa6ff"
+       fill="none" />
+    <path
+       d="M 18.873526,-117.764885 C 10.538337,-103.548271 -23.289364,-94.726135 -37.505978,-103.061325"
+       class="Per Fridtjof Larssen Gabriel Qvigstad"
+       id="path3976"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#7fa682"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 44.729229,-83.444366 20.421581,-103.107841 18.873526,-117.764885"
+       class="Øyvind Bentås Per Fridtjof Larssen"
+       id="path3978"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 94.400558,41.425682 C 90.255768,24.787527 108.995811,-6.386895 125.633965,-10.531688"
+       class="Torbjørn Røe Isaksen Knut Jørgen Vie"
+       id="path3980"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa6ff"
+       fill="none" />
+    <path
+       d="M 21.313148,9.391892 C 27.311632,11.025984 33.858219,22.474846 32.224129,28.473330"
+       class="Aksel Tjora Gunnar Bovim"
+       id="path3982"
+       stroke-opacity="0.64705884"
+       stroke-width="3.0"
+       stroke="#6fa6ff"
+       fill="none" />
+    <path
+       d="M 18.873526,-117.764885 C 1.319573,-102.265411 -48.260571,-105.347137 -63.760040,-122.901085"
+       class="Per Fridtjof Larssen 0"
+       id="path3984"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#7fa682"
+       fill="none" />
+    <path
+       d="M -43.689056,100.730026 C -39.558388,94.061974 -23.360296,90.255898 -16.692242,94.386566"
+       class="Dag Waaler Morten Djupdal"
+       id="path3986"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -143.103928,6.867829 C -145.829941,-4.186813 -133.337006,-24.857794 -122.282356,-27.583807"
+       class="Didrik Leganger Adrian Austevoll"
+       id="path3988"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -36.598873,127.964775 C -50.501953,135.496460 -82.654099,125.939362 -90.185776,112.036285"
+       class="Erling Landet Jonathan Sørfonden"
+       id="path3990"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -58.724510,87.403740 25.416203,97.646828 50.048748,129.108093"
+       class="Jonathan Sørfonden Bjørn Haugstad"
+       id="path3992"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -62.702572,-7.563498 -85.923775,3.205379 -97.253792,-0.945394"
+       class="1 Thor Haugen"
+       id="path3994"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -82.894890,-3.340920 -57.763241,14.604146 -55.367714,28.963051"
+       class="Thor Haugen Kim Allgot"
+       id="path3996"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -73.035973,-7.885468 -111.274307,-13.099638 -122.282356,-27.583807"
+       class="1 Adrian Austevoll"
+       id="path3998"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -72.175606,-143.578125 C -58.987740,-155.499298 -21.324169,-153.599258 -9.402995,-140.411392"
+       class="Martin Næss Johan Møkkerbakken"
+       id="path4000"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M 20.609463,-39.839691 C 12.182125,-38.786011 -2.039404,-49.846489 -3.093087,-58.273827"
+       class="Nicholas Christiansen Erik Hagen"
+       id="path4002"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#39c27f"
+       fill="none" />
+    <path
+       d="M -7.585449,-25.412355 C 22.662498,-11.385907 46.994743,55.025681 32.968296,85.273628"
+       class="Eivind Rindal Jone Trovåg"
+       id="path4004"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#39be4a"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -95.430489,71.241447 -42.105309,2.182119 -1.310466,-3.062595"
+       class="Jonathan Sørfonden Elise Landsem"
+       id="path4006"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M 73.084984,-49.510906 C 91.390625,-52.224857 122.920013,-28.837328 125.633965,-10.531688"
+       class="Håvard Bertelsen Knut Jørgen Vie"
+       id="path4008"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 88.155884,-45.655609 72.305099,56.504013 32.968296,85.273628"
+       class="Øyvind Bentås Jone Trovåg"
+       id="path4010"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -18.958035,10.327181 -8.863830,-2.238702 -1.310466,-3.062595"
+       class="Christian Tangene Elise Landsem"
+       id="path4012"
+       stroke-opacity="0.64705884"
+       stroke-width="4.8"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -55.367714,28.963051 C -26.438396,22.557964 26.563210,56.344311 32.968296,85.273628"
+       class="Kim Allgot Jone Trovåg"
+       id="path4014"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 69.222313,-80.635864 77.441544,-59.346951 73.084984,-49.510906"
+       class="Øyvind Bentås Håvard Bertelsen"
+       id="path4016"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -72.175606,-143.578125 C -76.199173,-136.319916 -93.121849,-131.467926 -100.380066,-135.491501"
+       class="Martin Næss Eskild Bakke"
+       id="path4018"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -23.364355,27.543760 -45.704498,34.193264 -55.367714,28.963051"
+       class="Christian Tangene Kim Allgot"
+       id="path4020"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -45.330643,40.671959 -120.312515,34.064331 -143.103928,6.867829"
+       class="Christian Tangene Didrik Leganger"
+       id="path4022"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -114.601830,29.951986 C -127.645088,19.980934 -132.253418,-14.540544 -122.282356,-27.583807"
+       class="Daniel Westervik Adrian Austevoll"
+       id="path4024"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -22.326662,-73.225327 C -21.764610,-66.732903 -30.660168,-56.151196 -37.152592,-55.589146"
+       class="Sondre Stai Hilde Opoku"
+       id="path4026"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#73c000"
+       fill="none" />
+    <path
+       d="M 50.577934,-29.753597 C 69.433525,-40.920422 114.467140,-29.387276 125.633965,-10.531688"
+       class="Ellen Helstad Knut Jørgen Vie"
+       id="path4028"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -55.367714,28.963051 C -77.334007,42.091251 -129.975739,28.834118 -143.103928,6.867829"
+       class="Kim Allgot Didrik Leganger"
+       id="path4030"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -22.326662,-73.225327 C -15.489648,-74.081741 -3.949502,-65.110840 -3.093087,-58.273827"
+       class="Sondre Stai Erik Hagen"
+       id="path4032"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#73c000"
+       fill="none" />
+    <path
+       d="M 46.610851,51.247368 C 39.178696,49.569904 30.546667,35.905483 32.224129,28.473330"
+       class="Øystein Risa Gunnar Bovim"
+       id="path4034"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -111.485847,100.502632 -126.135483,51.252056 -114.601830,29.951986"
+       class="Jonathan Sørfonden Daniel Westervik"
+       id="path4036"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 32.224129,28.473330 C 43.733025,39.684555 44.179523,73.764732 32.968296,85.273628"
+       class="Gunnar Bovim Jone Trovåg"
+       id="path4038"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -70.309959,3.169174 -121.041237,18.625984 -143.103928,6.867829"
+       class="1 Didrik Leganger"
+       id="path4040"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 36.394039,-69.227753 -21.741310,-80.069092 -37.505978,-103.061325"
+       class="Øyvind Bentås Gabriel Qvigstad"
+       id="path4042"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#7fa682"
+       fill="none" />
+    <path
+       d="M 21.313148,9.391892 C 14.297528,11.425718 0.723359,3.953026 -1.310466,-3.062595"
+       class="Aksel Tjora Elise Landsem"
+       id="path4044"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -100.380066,-135.491501 C -90.537979,-140.297424 -68.565964,-132.743164 -63.760040,-122.901085"
+       class="Eskild Bakke 0"
+       id="path4046"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -76.656425,3.717356 -52.754513,41.607521 -57.417263,62.204880"
+       class="Thor Haugen Dennis Bogen"
+       id="path4048"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 74.414398,19.748379 C 82.747086,20.086607 94.738785,33.092991 94.400558,41.425682"
+       class="Trond Giske Torbjørn Røe Isaksen"
+       id="path4050"
+       stroke-opacity="0.64705884"
+       stroke-width="2.4"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -1.310466,-3.062595 C 23.212530,7.748896 43.779785,60.750633 32.968296,85.273628"
+       class="Elise Landsem Jone Trovåg"
+       id="path4052"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -9.402995,-140.411392 C -7.553578,-127.320778 -24.415367,-104.910744 -37.505978,-103.061325"
+       class="Johan Møkkerbakken Gabriel Qvigstad"
+       id="path4054"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M 97.151230,-25.597525 C 87.555305,-25.566952 73.115555,-39.914978 73.084984,-49.510906"
+       class="Fredrik Oterhals Håvard Bertelsen"
+       id="path4056"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -7.585449,-25.412355 C -20.096287,-32.026711 -28.941015,-60.714489 -22.326662,-73.225327"
+       class="Eivind Rindal Sondre Stai"
+       id="path4058"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#73c000"
+       fill="none" />
+    <path
+       d="M 69.459244,57.790588 C 71.174530,49.529346 86.139313,39.710400 94.400558,41.425682"
+       class="Arvid Hallén Torbjørn Røe Isaksen"
+       id="path4060"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -116.900391,-98.387642 C -111.175011,-113.918396 -79.290794,-128.626465 -63.760040,-122.901085"
+       class="Morten Wold 0"
+       id="path4062"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M 32.224129,28.473330 C 21.042160,53.147919 -32.742672,73.386848 -57.417263,62.204880"
+       class="Gunnar Bovim Dennis Bogen"
+       id="path4064"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M 50.048748,129.108093 C 37.865761,123.757294 27.617495,97.456612 32.968296,85.273628"
+       class="Bjørn Haugstad Jone Trovåg"
+       id="path4066"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 46.610851,51.247368 C 45.871765,39.386860 62.553894,20.487467 74.414398,19.748379"
+       class="Øystein Risa Trond Giske"
+       id="path4068"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -1.310466,-3.062595 C 22.584600,-29.945299 98.751259,-34.426754 125.633965,-10.531688"
+       class="Elise Landsem Knut Jørgen Vie"
+       id="path4070"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 7.452073,-89.773628 C -4.197076,-83.439560 -31.171907,-91.412178 -37.505978,-103.061325"
+       class="Jo Jakobsen Gabriel Qvigstad"
+       id="path4072"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#b9a402"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -70.907494,82.052940 2.984951,65.995346 32.968296,85.273628"
+       class="Jonathan Sørfonden Jone Trovåg"
+       id="path4074"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 20.609463,-39.839691 C 29.170326,-52.269039 60.655636,-58.071770 73.084984,-49.510906"
+       class="Nicholas Christiansen Håvard Bertelsen"
+       id="path4076"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -77.664673,-13.004137 -30.192884,-1.708575 -18.134142,17.880545"
+       class="Thor Haugen Christian Tangene"
+       id="path4078"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -5.943932,9.927448 24.271032,16.283119 32.224129,28.473330"
+       class="Christian Tangene Gunnar Bovim"
+       id="path4080"
+       stroke-opacity="0.64705884"
+       stroke-width="2.4"
+       stroke="#6fa6ff"
+       fill="none" />
+    <path
+       d="M -63.760040,-122.901085 C -63.760040,-122.901085 -55.291954,-122.901085 -63.760040,-122.901085"
+       class="0"
+       id="path4082"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -35.013393,39.588371 -92.893997,46.831238 -114.601830,29.951986"
+       class="Christian Tangene Daniel Westervik"
+       id="path4084"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -43.689056,100.730026 C -54.139725,95.770638 -62.376652,72.655556 -57.417263,62.204880"
+       class="Dag Waaler Dennis Bogen"
+       id="path4086"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -124.529114,90.531586 -143.787048,6.759528 -122.282356,-27.583807"
+       class="Jonathan Sørfonden Adrian Austevoll"
+       id="path4088"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 50.577934,-29.753597 C 45.538452,-14.037717 14.405416,1.976886 -1.310466,-3.062595"
+       class="Ellen Helstad Elise Landsem"
+       id="path4090"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 20.609463,-39.839691 C 28.620377,-43.816166 46.601460,-37.764511 50.577934,-29.753597"
+       class="Nicholas Christiansen Ellen Helstad"
+       id="path4092"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -58.551804,-18.893520 -50.356056,-18.893520 -58.551804,-18.893520"
+       class="1"
+       id="path4094"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 20.609463,-39.839691 C 38.766251,-52.299610 84.691315,-43.754311 97.151230,-25.597525"
+       class="Nicholas Christiansen Fredrik Oterhals"
+       id="path4096"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -16.692242,94.386566 C -33.105721,71.820381 -23.876654,13.350882 -1.310466,-3.062595"
+       class="Morten Djupdal Elise Landsem"
+       id="path4098"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M 105.747452,83.181473 C 106.393944,76.310814 117.669662,66.974571 124.540321,67.621063"
+       class="Petter Aaslestad Vegard Vefring"
+       id="path4100"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M 59.604534,-63.520866 C 64.552666,-54.962093 59.136707,-34.701729 50.577934,-29.753597"
+       class="Jarle Møller Ellen Helstad"
+       id="path4102"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 32.224129,28.473330 C 19.210022,28.873066 -0.910732,9.951509 -1.310466,-3.062595"
+       class="Gunnar Bovim Elise Landsem"
+       id="path4104"
+       stroke-opacity="0.64705884"
+       stroke-width="3.0"
+       stroke="#6fa6ff"
+       fill="none" />
+    <path
+       d="M 7.452073,-89.773628 C 11.643002,-81.364639 5.315906,-62.464752 -3.093087,-58.273827"
+       class="Jo Jakobsen Erik Hagen"
+       id="path4106"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#73c000"
+       fill="none" />
+    <path
+       d="M -57.417263,62.204880 C -63.655720,55.146606 -62.425987,35.201508 -55.367714,28.963051"
+       class="Dennis Bogen Kim Allgot"
+       id="path4108"
+       stroke-opacity="0.64705884"
+       stroke-width="3.0"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -78.488564,-20.557499 -20.922573,-21.827820 -1.310466,-3.062595"
+       class="Thor Haugen Elise Landsem"
+       id="path4110"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M 73.084984,-49.510906 C 72.535034,-41.058033 59.030807,-29.203650 50.577934,-29.753597"
+       class="Håvard Bertelsen Ellen Helstad"
+       id="path4112"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 74.414398,19.748379 C 67.721329,29.931423 42.407173,35.166393 32.224129,28.473330"
+       class="Trond Giske Gunnar Bovim"
+       id="path4114"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -57.417263,62.204880 C -59.249397,37.930027 -25.585320,-1.230460 -1.310466,-3.062595"
+       class="Dennis Bogen Elise Landsem"
+       id="path4116"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -79.017014,93.807632 -34.920895,83.217804 -16.692242,94.386566"
+       class="Jonathan Sørfonden Morten Djupdal"
+       id="path4118"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C 5.564961,21.138674 36.226425,61.574524 32.968296,85.273628"
+       class="Christian Tangene Jone Trovåg"
+       id="path4120"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -114.601830,29.951986 C -124.919075,31.035576 -142.020340,17.185081 -143.103928,6.867829"
+       class="Daniel Westervik Didrik Leganger"
+       id="path4122"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -43.689056,100.730026 C -36.824070,104.758942 -32.569962,121.099785 -36.598873,127.964775"
+       class="Dag Waaler Erling Landet"
+       id="path4124"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -16.692242,94.386566 C -5.065857,61.575829 61.589821,29.799299 94.400558,41.425682"
+       class="Morten Djupdal Torbjørn Røe Isaksen"
+       id="path4126"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -13.713320,51.122021 -56.944305,107.615463 -90.185776,112.036285"
+       class="Christian Tangene Jonathan Sørfonden"
+       id="path4128"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -104.861176,9.787279 -132.371262,14.475212 -143.103928,6.867829"
+       class="Thor Haugen Didrik Leganger"
+       id="path4130"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 69.459244,57.790588 C 62.841831,49.191116 65.814926,26.365789 74.414398,19.748379"
+       class="Arvid Hallén Trond Giske"
+       id="path4132"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M 59.604534,-63.520866 C 59.513187,-39.246208 22.964188,-2.971249 -1.310466,-3.062595"
+       class="Jarle Møller Elise Landsem"
+       id="path4134"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -1.310466,-3.062595 C -30.409086,16.227541 -102.992226,1.514812 -122.282356,-27.583807"
+       class="Elise Landsem Adrian Austevoll"
+       id="path4136"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M 69.459244,57.790588 C 82.441559,48.740467 115.490204,54.638752 124.540321,67.621063"
+       class="Arvid Hallén Vegard Vefring"
+       id="path4138"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -22.326662,-73.225327 C -19.680574,-82.490738 -1.813335,-92.419716 7.452073,-89.773628"
+       class="Sondre Stai Jo Jakobsen"
+       id="path4140"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#73c000"
+       fill="none" />
+    <path
+       d="M 59.604534,-63.520866 C 55.266571,-67.771523 55.135609,-80.654449 59.386269,-84.992416"
+       class="Jarle Møller Øyvind Bentås"
+       id="path4142"
+       stroke-opacity="0.64705884"
+       stroke-width="2.4"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 68.672363,-72.182991 63.387363,-39.039696 50.577934,-29.753597"
+       class="Øyvind Bentås Ellen Helstad"
+       id="path4144"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 32.224129,28.473330 C 14.803703,46.089645 -37.751396,46.383476 -55.367714,28.963051"
+       class="Gunnar Bovim Kim Allgot"
+       id="path4146"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M 105.747452,83.181473 C 95.126915,77.099693 88.318779,52.046219 94.400558,41.425682"
+       class="Petter Aaslestad Torbjørn Røe Isaksen"
+       id="path4148"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -1.310466,-3.062595 C -27.683075,27.282183 -112.759155,33.240437 -143.103928,6.867829"
+       class="Elise Landsem Didrik Leganger"
+       id="path4150"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -7.585449,-25.412355 C -4.831934,-33.936806 12.085012,-42.593204 20.609463,-39.839691"
+       class="Eivind Rindal Nicholas Christiansen"
+       id="path4152"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#39c27f"
+       fill="none" />
+    <path
+       d="M -36.598873,127.964775 C -53.914532,118.976479 -66.405563,79.520538 -57.417263,62.204880"
+       class="Erling Landet Dennis Bogen"
+       id="path4154"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -9.402995,-140.411392 C -16.772343,-126.037926 -49.386570,-115.531738 -63.760040,-122.901085"
+       class="Johan Møkkerbakken 0"
+       id="path4156"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -43.937355,-27.175602 -9.592548,-17.677048 -1.310466,-3.062595"
+       class="1 Elise Landsem"
+       id="path4158"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M 59.386269,-84.992416 C 57.746605,-91.102386 64.452049,-102.726822 70.562019,-104.366486"
+       class="Øyvind Bentås Marius Jones"
+       id="path4160"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 105.747452,83.181473 C 91.610054,98.155739 47.942558,99.411026 32.968296,85.273628"
+       class="Petter Aaslestad Jone Trovåg"
+       id="path4162"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -48.056656,29.617317 -110.545586,2.338707 -122.282356,-27.583807"
+       class="Christian Tangene Adrian Austevoll"
+       id="path4164"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M 1.087985,-130.746536 C 21.898464,-133.255371 56.877434,-105.802902 59.386269,-84.992416"
+       class="Magnus Bjerke Øyvind Bentås"
+       id="path4166"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#7fa682"
+       fill="none" />
+    <path
+       d="M -7.585449,-25.412355 C -13.259272,-32.883121 -10.563854,-52.600002 -3.093087,-58.273827"
+       class="Eivind Rindal Erik Hagen"
+       id="path4168"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#73c000"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -11.942414,8.293356 11.725961,3.200165 21.313148,9.391892"
+       class="Christian Tangene Aksel Tjora"
+       id="path4170"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 32.224129,28.473330 C -8.028822,16.112419 -49.866890,-62.808372 -37.505978,-103.061325"
+       class="Gunnar Bovim Gabriel Qvigstad"
+       id="path4172"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ef8882"
+       fill="none" />
+    <path
+       d="M 20.609463,-39.839691 C 23.580896,-28.100286 10.428940,-6.034029 -1.310466,-3.062595"
+       class="Nicholas Christiansen Elise Landsem"
+       id="path4174"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -57.417263,62.204880 C -34.726398,48.741512 19.504932,62.582767 32.968296,85.273628"
+       class="Dennis Bogen Jone Trovåg"
+       id="path4176"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 97.151230,-25.597525 C 105.860947,-28.280903 122.950584,-19.241402 125.633965,-10.531688"
+       class="Fredrik Oterhals Knut Jørgen Vie"
+       id="path4178"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 124.540321,67.621063 C 109.756432,89.465973 54.813213,100.057526 32.968296,85.273628"
+       class="Vegard Vefring Jone Trovåg"
+       id="path4180"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M 97.151230,-25.597525 C 87.005356,-17.114080 59.061378,-19.607723 50.577934,-29.753597"
+       class="Fredrik Oterhals Ellen Helstad"
+       id="path4182"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -121.803101,101.586227 -153.553986,38.485149 -143.103928,6.867829"
+       class="Jonathan Sørfonden Didrik Leganger"
+       id="path4184"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -55.367714,28.963051 C -80.060013,31.036610 -120.208801,-2.891503 -122.282356,-27.583807"
+       class="Kim Allgot Adrian Austevoll"
+       id="path4186"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -7.585449,-25.412355 C -19.534235,-25.534286 -37.274521,-43.640358 -37.152592,-55.589146"
+       class="Eivind Rindal Hilde Opoku"
+       id="path4188"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#73c000"
+       fill="none" />
+    <path
+       d="M -58.551804,-18.893520 C -59.992710,2.085587 -93.622719,31.392891 -114.601830,29.951986"
+       class="1 Daniel Westervik"
+       id="path4190"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 109.267868,33.241398 C 107.931259,37.851715 99.010880,42.762287 94.400558,41.425682"
+       class="Tore Oksholen Torbjørn Røe Isaksen"
+       id="path4192"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -116.900391,-98.387642 C -121.017097,-109.112473 -111.104897,-131.374786 -100.380066,-135.491501"
+       class="Morten Wold Eskild Bakke"
+       id="path4194"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -18.134142,17.880545 C -24.682983,7.112226 -18.353767,-18.863516 -7.585449,-25.412355"
+       class="Christian Tangene Eivind Rindal"
+       id="path4196"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#39c27f"
+       fill="none" />
+    <path
+       d="M 94.400558,41.425682 C 90.883698,62.481724 54.024338,88.790489 32.968296,85.273628"
+       class="Torbjørn Røe Isaksen Jone Trovåg"
+       id="path4198"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#6fa3c9"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -73.243851,20.237339 -69.003044,88.026344 -90.185776,112.036285"
+       class="Thor Haugen Jonathan Sørfonden"
+       id="path4200"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M 97.151230,-25.597525 C 81.965881,-1.398199 22.888859,12.122759 -1.310466,-3.062595"
+       class="Fredrik Oterhals Elise Landsem"
+       id="path4202"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c4ff"
+       fill="none" />
+    <path
+       d="M 46.610851,51.247368 C 54.204456,39.725090 82.878281,33.832077 94.400558,41.425682"
+       class="Øystein Risa Torbjørn Røe Isaksen"
+       id="path4204"
+       stroke-opacity="0.64705884"
+       stroke-width="1.8000001"
+       stroke="#df89ff"
+       fill="none" />
+    <path
+       d="M -97.253792,-0.945394 C -94.543922,8.703690 -104.952751,27.242119 -114.601830,29.951986"
+       class="Thor Haugen Daniel Westervik"
+       id="path4206"
+       stroke-opacity="0.64705884"
+       stroke-width="1.2"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -63.760040,-122.901085 C -54.541275,-124.183945 -38.788837,-112.280083 -37.505978,-103.061325"
+       class="0 Gabriel Qvigstad"
+       id="path4208"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#ff8805"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -99.836807,88.458023 -78.945969,38.614086 -55.367714,28.963051"
+       class="Jonathan Sørfonden Kim Allgot"
+       id="path4210"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+    <path
+       d="M -114.601830,29.951986 C -98.546471,0.690798 -30.571655,-19.117952 -1.310466,-3.062595"
+       class="Daniel Westervik Elise Landsem"
+       id="path4212"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00c0c9"
+       fill="none" />
+    <path
+       d="M -90.185776,112.036285 C -93.598351,95.516304 -73.937248,65.617455 -57.417263,62.204880"
+       class="Jonathan Sørfonden Dennis Bogen"
+       id="path4214"
+       stroke-opacity="0.64705884"
+       stroke-width="0.6"
+       stroke="#00bd94"
+       fill="none" />
+  </g>
+  <g
+     id="nodes">
+    <circle
+       fill-opacity="1.0"
+       fill="#ff8805"
+       r="2.1170213"
+       cx="-63.76004"
+       class="0"
+       cy="-122.901085"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4217" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.1170213"
+       cx="-16.692242"
+       class="Morten Djupdal"
+       cy="94.386566"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4219" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="3.4106383"
+       cx="32.968296"
+       class="Jone Trovåg"
+       cy="85.27363"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4221" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="4.0914893"
+       cx="-1.3104663"
+       class="Elise Landsem"
+       cy="-3.062595"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4223" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="2.1851063"
+       cx="73.084984"
+       class="Håvard Bertelsen"
+       cy="-49.510906"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4225" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="3.0702128"
+       cx="59.38627"
+       class="Øyvind Bentås"
+       cy="-84.99242"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4227" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="1.7765957"
+       cx="20.609463"
+       class="Nicholas Christiansen"
+       cy="-39.83969"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4229" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="2.1851063"
+       cx="125.633965"
+       class="Knut Jørgen Vie"
+       cy="-10.531688"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4231" />
+    <circle
+       fill-opacity="1.0"
+       fill="#ff8805"
+       r="1.8446808"
+       cx="1.087985"
+       class="Magnus Bjerke"
+       cy="-130.74654"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4233" />
+    <circle
+       fill-opacity="1.0"
+       fill="#ff8805"
+       r="1.6404254"
+       cx="-9.402995"
+       class="Johan Møkkerbakken"
+       cy="-140.41139"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4235" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="4.5"
+       cx="32.22413"
+       class="Gunnar Bovim"
+       cy="28.47333"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4237" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="2.2531915"
+       cx="69.45924"
+       class="Arvid Hallén"
+       cy="57.79059"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4239" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="2.0489361"
+       cx="46.61085"
+       class="Øystein Risa"
+       cy="51.247368"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4241" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.7297873"
+       cx="-57.417263"
+       class="Dennis Bogen"
+       cy="62.20488"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4243" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.0489361"
+       cx="-58.551804"
+       class="1"
+       cy="-18.89352"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4245" />
+    <circle
+       fill-opacity="1.0"
+       fill="#73c000"
+       r="1.7085106"
+       cx="-37.15259"
+       class="Hilde Opoku"
+       cy="-55.589146"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4247" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="3.4787233"
+       cx="94.40056"
+       class="Torbjørn Røe Isaksen"
+       cy="41.425682"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4249" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.1170213"
+       cx="-114.60183"
+       class="Daniel Westervik"
+       cy="29.951986"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4251" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="1.5723404"
+       cx="105.74745"
+       class="Petter Aaslestad"
+       cy="83.18147"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4253" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="1.5042553"
+       cx="58.229492"
+       class="Knut Solberg"
+       cy="114.14171"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4255" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="1.8446808"
+       cx="59.604534"
+       class="Jarle Møller"
+       cy="-63.520866"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4257" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="1.7765957"
+       cx="18.873526"
+       class="Per Fridtjof Larssen"
+       cy="-117.764885"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4259" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="1.912766"
+       cx="70.56202"
+       class="Marius Jones"
+       cy="-104.366486"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4261" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="1.7765957"
+       cx="-43.689056"
+       class="Dag Waaler"
+       cy="100.73003"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4263" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.6617022"
+       cx="-55.367714"
+       class="Kim Allgot"
+       cy="28.96305"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4265" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="2.1851063"
+       cx="21.313148"
+       class="Aksel Tjora"
+       cy="9.391892"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4267" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.1851063"
+       cx="-143.10393"
+       class="Didrik Leganger"
+       cy="6.8678293"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4269" />
+    <circle
+       fill-opacity="1.0"
+       fill="#73c000"
+       r="1.980851"
+       cx="-7.585449"
+       class="Eivind Rindal"
+       cy="-25.412355"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4271" />
+    <circle
+       fill-opacity="1.0"
+       fill="#73c000"
+       r="1.5042553"
+       cx="7.452073"
+       class="Jo Jakobsen"
+       cy="-89.77363"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4273" />
+    <circle
+       fill-opacity="1.0"
+       fill="#ff8805"
+       r="2.2531915"
+       cx="-37.505978"
+       class="Gabriel Qvigstad"
+       cy="-103.061325"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4275" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.1170213"
+       cx="-122.28236"
+       class="Adrian Austevoll"
+       cy="-27.583807"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4277" />
+    <circle
+       fill-opacity="1.0"
+       fill="#ff8805"
+       r="1.912766"
+       cx="-116.90039"
+       class="Morten Wold"
+       cy="-98.38764"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4279" />
+    <circle
+       fill-opacity="1.0"
+       fill="#ff8805"
+       r="2.3212767"
+       cx="-72.175606"
+       class="Martin Næss"
+       cy="-143.57812"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4281" />
+    <circle
+       fill-opacity="1.0"
+       fill="#ff8805"
+       r="2.0489361"
+       cx="-100.380066"
+       class="Eskild Bakke"
+       cy="-135.4915"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4283" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="1.7085106"
+       cx="-36.598873"
+       class="Erling Landet"
+       cy="127.964775"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4285" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.3212767"
+       cx="-90.185776"
+       class="Jonathan Sørfonden"
+       cy="112.036285"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4287" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="1.5042553"
+       cx="50.048748"
+       class="Bjørn Haugstad"
+       cy="129.1081"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4289" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00bd94"
+       r="2.1170213"
+       cx="-97.25379"
+       class="Thor Haugen"
+       cy="-0.9453936"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4291" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="1.5723404"
+       cx="124.54032"
+       class="Vegard Vefring"
+       cy="67.62106"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4293" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="1.5723404"
+       cx="109.26787"
+       class="Tore Oksholen"
+       cy="33.241398"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4295" />
+    <circle
+       fill-opacity="1.0"
+       fill="#73c000"
+       r="1.5723404"
+       cx="-3.0930872"
+       class="Erik Hagen"
+       cy="-58.273827"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4297" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="2.1170213"
+       cx="50.577934"
+       class="Ellen Helstad"
+       cy="-29.753597"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4299" />
+    <circle
+       fill-opacity="1.0"
+       fill="#73c000"
+       r="1.6404254"
+       cx="-22.326662"
+       class="Sondre Stai"
+       cy="-73.22533"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4301" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="2.7978723"
+       cx="-18.134142"
+       class="Christian Tangene"
+       cy="17.880545"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4303" />
+    <circle
+       fill-opacity="1.0"
+       fill="#df89ff"
+       r="2.1851063"
+       cx="74.4144"
+       class="Trond Giske"
+       cy="19.748379"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4305" />
+    <circle
+       fill-opacity="1.0"
+       fill="#00c4ff"
+       r="1.6404254"
+       cx="97.15123"
+       class="Fredrik Oterhals"
+       cy="-25.597525"
+       stroke="#000000"
+       stroke-opacity="1.0"
+       stroke-width="0.5"
+       id="circle4307" />
+  </g>
+  <g
+     id="node-labels">
+    <text
+       font-size="5"
+       x="-55.76004"
+       y="-115.99983"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="0"
+       id="text4310">Erik Hide Sæternes</text>
+    <text
+       font-size="5"
+       x="-16.044529"
+       y="88.378593"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Morten Djupdal"
+       id="text4312">Morten Djupdal</text>
+    <text
+       font-size="8"
+       x="38.646523"
+       y="96.23333"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Jone Trovåg"
+       id="text4314">Jone Trovåg</text>
+    <text
+       font-size="10"
+       x="40.355267"
+       y="-0.29060641"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Elise Landsem"
+       id="text4316">Elise Landsem</text>
+    <text
+       font-size="5"
+       x="81.084984"
+       y="-42.593407"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Håvard Bertelsen"
+       id="text4318">Håvard Bertelsen</text>
+    <text
+       font-size="7"
+       x="67.386269"
+       y="-77.340416"
+       style="font-size:7px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Øyvind Bentås"
+       id="text4320">Øyvind Bentås</text>
+    <text
+       font-size="4"
+       x="28.609463"
+       y="-33.11869"
+       style="font-size:4px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Nicholas Christiansen"
+       id="text4322">Nicholas Christiansen</text>
+    <text
+       font-size="5"
+       x="103.06393"
+       y="-8.844161"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Knut Jørgen Vie"
+       id="text4324">Knut Jørgen Vie</text>
+    <text
+       font-size="4"
+       x="20.309896"
+       y="-129.24503"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Magnus Bjerke"
+       id="text4326">Magnus Bjerke</text>
+    <text
+       font-size="4"
+       x="14.462464"
+       y="-139.08087"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Johan Møkkerbakken"
+       id="text4328">Johan Møkkerbakken</text>
+    <text
+       font-size="11"
+       x="21.649931"
+       y="42.954689"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Gunnar Bovim"
+       id="text4330">Gunnar Bovim</text>
+    <text
+       font-size="5"
+       x="73.976578"
+       y="65.078796"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Arvid Hallén"
+       id="text4332">Arvid Hallén</text>
+    <text
+       font-size="5"
+       x="45.710716"
+       y="58.414867"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Øystein Risa"
+       id="text4334">Øystein Risa</text>
+    <text
+       font-size="7"
+       x="-29.295216"
+       y="63.954445"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Dennis Bogen"
+       id="text4336">Dennis Bogen</text>
+    <text
+       font-size="5"
+       x="-50.551804"
+       y="-12.03602"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="1"
+       id="text4338">Hans Marius Martinsen</text>
+    <text
+       font-size="4"
+       x="-29.152592"
+       y="-48.681145"
+       style="font-size:4px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Hilde Opoku"
+       id="text4340">Hilde Opoku</text>
+    <text
+       font-size="8"
+       x="89.630798"
+       y="51.97242"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Torbjørn Røe Isaksen"
+       id="text4342">Torbjørn R. Isaksen</text>
+    <text
+       font-size="5"
+       x="-106.60183"
+       y="36.853237"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Daniel Westervik"
+       id="text4344">Daniel Westervik</text>
+    <text
+       font-size="4"
+       x="85.886154"
+       y="84.871964"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Petter Aaslestad"
+       id="text4346">Petter Aaslestad</text>
+    <text
+       font-size="4"
+       x="73.581779"
+       y="115.25627"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Knut Solberg"
+       id="text4348">Knut Solberg</text>
+    <text
+       font-size="4"
+       x="43.999828"
+       y="-62.190338"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Jarle Møller"
+       id="text4350">Jarle Møller</text>
+    <text
+       font-size="4"
+       x="23.003901"
+       y="-111.22184"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Per Fridtjof Larssen"
+       id="text4352">Per Fridtjof Larssen</text>
+    <text
+       font-size="5"
+       x="89.783928"
+       y="-102.92646"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Marius Jones"
+       id="text4354">Marius Jones</text>
+    <text
+       font-size="4"
+       x="-29.497658"
+       y="101.84458"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Dag Waaler"
+       id="text4356">Dag Waaler</text>
+    <text
+       font-size="6"
+       x="-58.20266"
+       y="37.8894"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Kim Allgot"
+       id="text4358">Kim Allgot</text>
+    <text
+       font-size="5"
+       x="29.313148"
+       y="16.540642"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Aksel Tjora"
+       id="text4360">Aksel Tjora</text>
+    <text
+       font-size="5"
+       x="-135.10393"
+       y="14.016579"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Didrik Leganger"
+       id="text4362">Didrik Leganger</text>
+    <text
+       font-size="5"
+       x="0.41455078"
+       y="-18.511105"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Eivind Rindal"
+       id="text4364">Eivind Rindal</text>
+    <text
+       font-size="4"
+       x="15.452073"
+       y="-83.052628"
+       style="font-size:4px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Jo Jakobsen"
+       id="text4366">Jo Jakobsen</text>
+    <text
+       font-size="5"
+       x="-38.793076"
+       y="-95.138649"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Gabriel Qvigstad"
+       id="text4368">Gabriel Qvigstad</text>
+    <text
+       font-size="5"
+       x="-114.28236"
+       y="-20.682556"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Adrian Austevoll"
+       id="text4370">Adrian Austevoll</text>
+    <text
+       font-size="5"
+       x="-108.90039"
+       y="-91.486389"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Morten Wold"
+       id="text4372">Morten Wold</text>
+    <text
+       font-size="6"
+       x="-49.471031"
+       y="-141.96661"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Martin Næss"
+       id="text4374">Martin Næss</text>
+    <text
+       font-size="5"
+       x="-92.380074"
+       y="-128.59027"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Eskild Bakke"
+       id="text4376">Eskild Bakke</text>
+    <text
+       font-size="4"
+       x="-20.859625"
+       y="129.46629"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Erling Landet"
+       id="text4378">Erling Landet</text>
+    <text
+       font-size="6"
+       x="-89.538063"
+       y="120.72264"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Jonathan Sørfonden"
+       id="text4380">Jonathan Sørfonden</text>
+    <text
+       font-size="4"
+       x="30.574415"
+       y="129.83569"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Bjørn Haugstad"
+       id="text4382">Bjørn Haugstad</text>
+    <text
+       font-size="5"
+       x="-89.253792"
+       y="6.2033567"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Thor Haugen"
+       id="text4384">Thor Haugen</text>
+    <text
+       font-size="4"
+       x="107.00079"
+       y="68.746628"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Vegard Vefring"
+       id="text4386">Vegard Vefring</text>
+    <text
+       font-size="4"
+       x="109.14166"
+       y="29.514412"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Tore Oksholen"
+       id="text4388">Tore Oksholen</text>
+    <text
+       font-size="4"
+       x="4.9069128"
+       y="-51.354828"
+       style="font-size:4px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Erik Hagen"
+       id="text4390">Erik Hagen</text>
+    <text
+       font-size="5"
+       x="58.577934"
+       y="-22.852348"
+       style="font-size:5px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Ellen Helstad"
+       id="text4392">Ellen Helstad</text>
+    <text
+       font-size="4"
+       x="-14.326662"
+       y="-66.504326"
+       style="font-size:4px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Sondre Stai"
+       id="text4394">Sondre Stai</text>
+    <text
+       font-size="7"
+       x="-53.473934"
+       y="19.684357"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Christian Tangene"
+       id="text4396">Christian Tangene</text>
+    <text
+       font-size="5"
+       x="92.862381"
+       y="21.232153"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-anchor:middle;fill:#000000"
+       class="Trond Giske"
+       id="text4398">Trond Giske</text>
+    <text
+       font-size="4"
+       x="105.15123"
+       y="-18.876524"
+       style="font-size:4px;font-family:'Helvetica Neue';text-anchor:middle;fill:#000000;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       class="Fredrik Oterhals"
+       id="text4400">Fredrik Oterhals</text>
+  </g>
+</svg>

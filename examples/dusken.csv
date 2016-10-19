@@ -1,0 +1,446 @@
+Source;Target;Weight;Type
+Johannes Bjartnes;Martin Næss;2;Undirected
+Patrik Alm;Morten Qvenild;1;Undirected
+Sigurd Moe Nyquist;Odd Future;1;Undirected
+Lars Jacob Eide Helland;Jan Eggum;1;Undirected
+Magnus Bjerke;Mathias Rødland;1;Undirected
+Per Fridtjof Larssen;Julius Maske;1;Undirected
+Thor Haugen;Kim Allgot;1;Undirected
+Lasse Georg Tønnesen;Lasse Georg Tønnessen;1;Undirected
+Gunnar Bovim;Vegard Bilsbak;1;Undirected
+Gunnar Bovim;Øyvind Bentås;1;Undirected
+Morten Djupdal;Dag Waaler;2;Undirected
+Mads Veslelia;Sondre Lerche;1;Undirected
+Morten Djupdal;Jonathan Sørfonden;1;Undirected
+Erik Hide Sæterness;Morten Wold;2;Undirected
+Ola Nordmann;Jørgen Foss;1;Undirected
+Eskild Bakke;Erik Hide Sæternes;3;Undirected
+Jørgen Benkholt;Nicholas Christiansen;1;Undirected
+Sigurd Moe Nyquist;Patrik Alm;1;Undirected
+Nils Ole Oftebro;Stian Carstensen;1;Undirected
+Arvid Hallén;Vegard Vefring;1;Undirected
+Kristian Døhl;Jone Trovåg;1;Undirected
+Gunnar Bovim;Stein Olav Romslo;1;Undirected
+Fredrik Græsvik;Marius Jones;1;Undirected
+Gabriel Qvigstad;Torjus Solheim Eckhoff;1;Undirected
+Fabian Egge;Pål Angelskår;1;Undirected
+Eivind Rindal;Hilde Opoku;1;Undirected
+Mats Borch Bugge;Daniel Kvammen;1;Undirected
+Henrik Ibsen;Vebjørn Sand;1;Undirected
+Thor Haugen;Christian Tangene;1;Undirected
+Hans Fredrik Sunde;Mads Bjørgan;1;Undirected
+Vebjørn Selbekk;Lars Vilks;2;Undirected
+Fabian Egge;Erik Lundgren;1;Undirected
+Jakob Aure;Edvard Moser;1;Undirected
+Tore Oksholen;Lars Vilks;1;Undirected
+Ellen Helstad;Nicholas Christiansen;1;Undirected
+Didrik Leganger;Jonathan Sørfonden;1;Undirected
+Magnus Bjerke;Gabriel Qvigstad;4;Undirected
+Eivind Rindal;Elise Landsem;1;Undirected
+Pål Angelskår;Mats Borch Bugge;1;Undirected
+Per Fridtjof Larssen;Kim Hovden Duong;1;Undirected
+Fredrik Bjerkeli;Ola Rui Nygard;2;Undirected
+Paul Simon;Ola Rui Nygard;1;Undirected
+Eivind Rindal;Ole Henrik Ellestad;1;Undirected
+Arvid Hallén;Torbjørn Røe Isaksen;3;Undirected
+Håvard Bertelsen;Elise Landsem;2;Undirected
+Herman Hansen;Stian Carstensen;1;Undirected
+Johan Møkkerbakken;Erik Hide Sæternes;1;Undirected
+Øyvind Bentås;Jone Trovåg;2;Undirected
+Karoline Flåte;Marius Jones;1;Undirected
+Christian Grey;James Bond;1;Undirected
+Gunnar Bovim;Gabriel Qvigstad;1;Undirected
+Eirik Angård;Morten Qvenild;1;Undirected
+Olaf Olsen;Peter Estdahl;2;Undirected
+Erling Landet;Jonathan Sørfonden;1;Undirected
+Stian Westerhus;Fredrik Græsvik;1;Undirected
+Ivan Ave;Olaf Olsen;1;Undirected
+Erik Hagen;Jo Jakobsen;1;Undirected
+Nicholas Lund;Lasse Georg Tønnesen;1;Undirected
+Daniel Westervik;Adrian Austevoll;2;Undirected
+Eivind Rindal;Erik Hagen;1;Undirected
+Geir Waage;Tore Dyrendahl;1;Undirected
+Adrian Austevoll;Hans Marius Martinsen;1;Undirected
+Johannes Bjartnes;Erik Hide Sæternes;1;Undirected
+Daniel Westervik;Elise Landsem;1;Undirected
+Morten Qvenild;Thomas Dybdahl;1;Undirected
+Leo Ajkic;Fredrik Græsvik;1;Undirected
+Hans Marius Martinsen;Elise Landsem;1;Undirected
+Gunnar Bovim;Tage Thrana;2;Undirected
+Bjørn Haugstad;Jone Trovåg;1;Undirected
+Kristine Bjartnes;Karoline Flåte;2;Undirected
+Martin Næss;Eskild Bakke;3;Undirected
+Ole Henrik Ellestad;Hilde Opoku;1;Undirected
+Håvard Bertelsen;Nicholas Christiansen;1;Undirected
+Øyvind Bentås;Marius Jones;1;Undirected
+Jack White;Per Borten;1;Undirected
+Ellen Helstad;Knut Jørgen Vie;1;Undirected
+Morten Djupdal;Kim Allgot;1;Undirected
+Helge Klungland;Petter Aaslestad;1;Undirected
+Knut Solberg;Gunnar Bovim;1;Undirected
+Thor Haugen;Elise Landsem;1;Undirected
+Mats Wawa;Aleksander Johansen;1;Undirected
+Hans Fredrik Sunde;Edward Snowden;1;Undirected
+Adrian Austevoll;Marius Martinsen;1;Undirected
+Sondre Justad;Lars Vaular;1;Undirected
+Torbjørn Røe Isaksen;Petter Aaslestad;1;Undirected
+Sigurd Moe Nyquist;Justin Bieber;1;Undirected
+Mats Wawa;Patrik Alm;1;Undirected
+Didrik Leganger;Dennis Bogen;1;Undirected
+Erik Hagen;Nicholas Christiansen;1;Undirected
+Mads Bjørgan;Eirik Åsheim;1;Undirected
+Fredrik Bjerkeli;Paul Simon;1;Undirected
+Eivind Rindal;Jone Trovåg;1;Undirected
+Mats Borch Bugge;Herman Hansen;1;Undirected
+Lasse Georg Tønnessen;Paul Simon;1;Undirected
+Halvor Haugan;Magne Haneberg;1;Undirected
+Odin Drønen;Fredrik Græsvik;1;Undirected
+Stein Olav Romslo;Jone Trovåg;1;Undirected
+David Lee;Magne Haneberg;1;Undirected
+Jonas Gahr Støre;Erik Sæternes;1;Undirected
+Martin Gynther Mørkved;Øyvind Bentås;1;Undirected
+Sondre Justad;Pål Angelskår;1;Undirected
+Torbjørn Røe Isaksen;Øystein Risa;3;Undirected
+Eirik Åsheim;Dag Herrem;1;Undirected
+Patrik Alm;Odd Future;1;Undirected
+Daniel Westervik;Kim Allgot;1;Undirected
+Sondre Lerche;Michael Jackson;1;Undirected
+Torjus Solheim Eckhoff;Mathias Rødland;2;Undirected
+Stian Carstensen;Bror Forsgren;1;Undirected
+Jonas Alaska;Even Ormestad;1;Undirected
+Eivind Rindal;Christian Tangene;1;Undirected
+Johan Møkkerbakken;Martin Næss;1;Undirected
+Øyvind Bentås;Ivar Kjølseth;1;Undirected
+Kristine Bjartnes;Marius Jones;2;Undirected
+Eivind Sandodden Kise;Vebjørn Selbekk;1;Undirected
+Rolf Martin Snustad;Per Borten;2;Undirected
+Dennis Bogen;Morten Djupdal;2;Undirected
+Kristoffer Øen;John Olav Nilsen;1;Undirected
+Gabriel Qvigstad;Mathias Rødland;1;Undirected
+Nicholas Christiansen;Elise Landsem;1;Undirected
+Martin Gynther Mørkved;Lasse Georg Tønnessen;1;Undirected
+Arthur Ribe Rudihagen;Peter Eio;2;Undirected
+Trond Giske;Mikkel Bolstad Dæhli;1;Undirected
+Paul McCartney;Odd Future;1;Undirected
+Erik Hide Sæterness;Eskild Bakke;2;Undirected
+Torbjørn Røe Isaksen;Jone Trovåg;3;Undirected
+Jan Bojer Vindheim;Torbjørn Røe Isaksen;1;Undirected
+Martin Næss;Gabriel Qvigstad;1;Undirected
+Dennis Bogen;Thor Haugen;1;Undirected
+Didrik Leganger;Marius Martinsen;1;Undirected
+Trond Giske;Gunnar Bovim;3;Undirected
+Arvid Hallén;Petter Aaslestad;1;Undirected
+Theodor Ikonomou;Ola Rui Nygard;2;Undirected
+Eivind Rindal;Gunnar Bovim;2;Undirected
+Petter Aaslestad;Jone Trovåg;1;Undirected
+Lars Jacob Eide Helland;Ola Rui Nygard;2;Undirected
+Odin Drønen;Jørgen Foss;1;Undirected
+Leo Ajkic;Thomas Dybdahl;2;Undirected
+Tobias Linkjendal;Arthur Ribe Rudihagen;2;Undirected
+Kenneth Kapstad;Per Borten;2;Undirected
+Daniel Westervik;Thor Haugen;2;Undirected
+Jørgen Benkholt;Sondre Stai;1;Undirected
+Erlend Loe;Christian Grey;1;Undirected
+Øyvind Bentås;Gabriel Qvigstad;2;Undirected
+Jakob Aure;Torbjørn Røe Isaksen;1;Undirected
+Fredrik Oterhals;Knut Jørgen Vie;1;Undirected
+Anders Kvernmo Langset;Torbjørn Røe Isaksen;3;Undirected
+Martin Næss;Erik Sæternes;1;Undirected
+Michael Jackson;Abel Tesfaye;2;Undirected
+Mads Veslelia;Pål Angelskår;1;Undirected
+Øyvind Bentås;Jarle Møller;4;Undirected
+Eirik Angård;Odd Loves To Dance;1;Undirected
+Julius Maske;Øyvind Bentås;1;Undirected
+Martin Næss;Morten Wold;2;Undirected
+Eirik Åsheim;Knut Jørgen Vie;1;Undirected
+Thomas Dybdahl;Abel Tesfaye;1;Undirected
+Hans Fredrik Sunde;Eirik Åsheim;1;Undirected
+Christian Tangene;Kim Allgot;1;Undirected
+Geir Waage;Jone Trovåg;1;Undirected
+Mikkel Bolstad Dæhli;Knut Jørgen Vie;1;Undirected
+Mads Veslelia;Sondre Justad;1;Undirected
+Sondre Justad;Sondre Lerche;1;Undirected
+Herman Hansen;Daniel Kvammen;1;Undirected
+Jonas Asheim;Eirik Vågeskar;1;Undirected
+Morten Djupdal;Elise Landsem;1;Undirected
+Elise Landsem;Knut Jørgen Vie;1;Undirected
+Ivan Ave;Peter Estdahl;1;Undirected
+Thor Haugen;Jonathan Sørfonden;1;Undirected
+Johannes Bjartnes;Eskild Bakke;1;Undirected
+Anders Kvernmo Langset;Knut Jørgen Vie;1;Undirected
+Erling Landet;Magne Haneberg;1;Undirected
+Odin Drønen;Marius Jones;1;Undirected
+Lars Jacob Eide Helland;Theodor Ikonomou;2;Undirected
+Arvid Hallén;Jone Trovåg;1;Undirected
+Bon Iver;Patrik Alm;1;Undirected
+Jarle Bernhoft;Thomas Dybdahl;1;Undirected
+Dennis Bogen;Jone Trovåg;1;Undirected
+Gunnar Bovim;Aksel Tjora;5;Undirected
+Jan Eggum;Bjørn Eidsvåg;1;Undirected
+Theodor Ikonomou;Paul Simon;1;Undirected
+Fredrik Bjerkeli;Theodor Ikonomou;2;Undirected
+Adrian Austevoll;Kim Allgot;1;Undirected
+Jørgen Benkholt;Knut Jørgen Vie;2;Undirected
+Daniel Westervik;Jonathan Sørfonden;1;Undirected
+Vebjørn Sand;Jens Bjørneboe;1;Undirected
+Mats Wawa;Jonas Alaska;1;Undirected
+Magnus Bjerke;Johan Møkkerbakken;1;Undirected
+Jonas Alaska;Paul McCartney;1;Undirected
+Robin Hood;Per Viderup;1;Undirected
+Øyvind Bentås;Elise Landsem;1;Undirected
+Jan Helgerud;Jan Hoff;2;Undirected
+Håvard Bertelsen;Jarle Møller;2;Undirected
+Håvard Bertelsen;Fredrik Oterhals;1;Undirected
+Odin Drønen;Kristine Bjartnes;2;Undirected
+Dennis Bogen;Erling Landet;1;Undirected
+Gunnar Bovim;Christian Tangene;4;Undirected
+Gunnar Bovim;Helge Klungland;2;Undirected
+Johannes Bjartnes;Johan Møkkerbakken;1;Undirected
+Odin Drønen;Karoline Flåte;1;Undirected
+Mats Borch Bugge;Stian Carstensen;1;Undirected
+Kim Allgot;Jone Trovåg;1;Undirected
+Christian Tangene;Elise Landsem;8;Undirected
+Olaf Olsen;Magne Haneberg;1;Undirected
+Aksel Tjora;Harald Eia;1;Undirected
+Didrik Leganger;Joakim Granli Antonsen;1;Undirected
+Halvor Haugan;Erling Landet;1;Undirected
+Jørgen Benkholt;Elise Landsem;2;Undirected
+Erik Hide Sæterness;Erik Hide Sæternes;2;Undirected
+Mats Vederhus;Bjørn Eidsvåg;1;Undirected
+Adrian Austevoll;Christian Tangene;1;Undirected
+Aksel Tjora;Tore Sandnes Becker;1;Undirected
+Elise Landsem;Jarle Møller;1;Undirected
+Johannes Bjartnes;Hilde Opoku;1;Undirected
+Håvard Bertelsen;Knut Jørgen Vie;1;Undirected
+Øyvind Bentås;Martin Gundersen;1;Undirected
+Halvard Danielsen;Truls Nedregård;1;Undirected
+Stian Westerhus;Thomas Dybdahl;1;Undirected
+Dag Waaler;Jone Trovåg;1;Undirected
+Thor Haugen;Hans Marius Martinsen;1;Undirected
+Torbjørn Røe Isaksen;Jan Frode Hatlen;3;Undirected
+Jørgen Benkholt;Vegard Vefring;1;Undirected
+Eivind Rindal;Sondre Stai;1;Undirected
+Rasmus Liestøl;Sigurd Moe Nyquist;1;Undirected
+Håvard Bertelsen;Ellen Helstad;2;Undirected
+David Bowie;Even Ormestad;1;Undirected
+Petter Vågan;Mats Wawa;1;Undirected
+Marius Martinsen;Jone Trovåg;1;Undirected
+Jonathan Sørfonden;Dag Waaler;1;Undirected
+Didrik Leganger;Adrian Austevoll;2;Undirected
+Gunnar Bovim;Øystein Risa;3;Undirected
+Paul McCartney;Øyvind Bentås;1;Undirected
+Dennis Bogen;Kim Allgot;5;Undirected
+Per Fridtjof Larssen;Erik Hide Sæternes;1;Undirected
+Mats Wawa;Rolf Martin Snustad;1;Undirected
+Jonathan Sørfonden;Bjørn Haugstad;1;Undirected
+Jørgen Benkholt;Hilde Opoku;1;Undirected
+Pål Angelskår;Herman Hansen;1;Undirected
+Eivind Rindal;Johannes Bjartnes;1;Undirected
+Jonas Alaska;David Bowie;1;Undirected
+Jack White;Aksel Tjora;1;Undirected
+Knut Solberg;Vegard Elde Vefring;1;Undirected
+Martin Gundersen;Elise Landsem;1;Undirected
+Sigurd Moe Nyquist;Eirik Angård;1;Undirected
+Christian Tangene;Jone Trovåg;1;Undirected
+Thomas Dybdahl;Fredrik Græsvik;1;Undirected
+Jørgen Benkholt;Håvard Bertelsen;1;Undirected
+Magnus Bjerke;Torjus Solheim Eckhoff;1;Undirected
+Vegard Elde Vefring;Knut Jørgen Vie;1;Undirected
+Ole Oftebro;Stian Carstensen;1;Undirected
+Jens Stoltenberg;Mats Vederhus;1;Undirected
+Øyvind Bentås;John Olav Nilsen;1;Undirected
+Ellen Helstad;Jarle Møller;1;Undirected
+Hans Marius Martinsen;Marius Martinsen;3;Undirected
+Morten Djupdal;Torbjørn Røe Isaksen;1;Undirected
+Morten Wold;Eskild Bakke;2;Undirected
+Gustav Lorentzen;Øystein Dolmen;2;Undirected
+Ellen Helstad;Elise Landsem;3;Undirected
+Ola Rui Nygard;Jan Eggum;1;Undirected
+Adrian Austevoll;Elise Landsem;1;Undirected
+Jørgen Benkholt;Fredrik Oterhals;1;Undirected
+Thor Haugen;Marius Martinsen;1;Undirected
+Øyvind Bentås;Dag Herrem;1;Undirected
+Mats Wawa;Morten Qvenild;1;Undirected
+Theodor Ikonomou;Jan Eggum;1;Undirected
+Anders Kjevik;Erik Lundgren;1;Undirected
+Fredrik Bjerkeli;Jan Eggum;1;Undirected
+Paul Simon;Jan Eggum;1;Undirected
+Eivind Sandodden Kise;Lars Vilks;1;Undirected
+Petter Vågan;Andreas Winther;1;Undirected
+Erlend Loe;James Bond;1;Undirected
+Ellen Helstad;Øyvind Bentås;1;Undirected
+Vegard Vefring;Jone Trovåg;1;Undirected
+Knut Solberg;Bjørn Haugstad;1;Undirected
+Eirik Angård;Patrik Alm;1;Undirected
+Petter Vågan;Knut Reiersrud;1;Undirected
+Jo Jakobsen;Sondre Stai;1;Undirected
+Per Fridtjof Larssen;Marius Jones;1;Undirected
+Edward Sharpe;David Bowie;1;Undirected
+Jonas Gahr Støre;Morten Wold;1;Undirected
+Tobias Linkjendal;Eirik Vågeskar;2;Undirected
+Halvard Danielsen;Bjørn Haugstad;1;Undirected
+Pål Angelskår;Sondre Lerche;1;Undirected
+Per Fridtjof Larssen;Øyvind Bentås;2;Undirected
+Julius Maske;Kim Hovden Duong;2;Undirected
+Jørgen Benkholt;Jone Trovåg;1;Undirected
+Didrik Leganger;Christian Tangene;1;Undirected
+Aslak Røkke;Marius Jones;2;Undirected
+Hans Marius Martinsen;Kim Allgot;2;Undirected
+Eirik Åsheim;Mikkel Bolstad Dæhli;1;Undirected
+Kenneth Kapstad;Rolf Martin Snustad;2;Undirected
+Dennis Bogen;Dag Waaler;2;Undirected
+Elise Landsem;Kim Allgot;2;Undirected
+Dennis Bogen;Jonathan Sørfonden;1;Undirected
+Mats Vederhus;James Bond;1;Undirected
+Paul McCartney;Gabriel Qvigstad;1;Undirected
+Knut Reiersrud;Stian Westerhus;1;Undirected
+Morten Djupdal;Jone Trovåg;3;Undirected
+Hans Fredrik Sunde;Eivind Sandodden Kise;1;Undirected
+Gunnar Bovim;Elise Landsem;5;Undirected
+Daniel Kvammen;Bror Forsgren;1;Undirected
+Håvard Bertelsen;Ivar Kjølseth;1;Undirected
+Vegard Vefring;Knut Jørgen Vie;1;Undirected
+Magnus Bjerke;Paul McCartney;1;Undirected
+Trond Giske;Torbjørn Røe Isaksen;4;Undirected
+Nicholas Lund;Lasse Georg Tønnessen;1;Undirected
+Jan Bojer Vindheim;Gunnar Bovim;1;Undirected
+Martin Gynther Mørkved;Jone Trovåg;1;Undirected
+Torbjørn Røe Isaksen;Knut Jørgen Vie;1;Undirected
+Elise Landsem;Jone Trovåg;1;Undirected
+Daniel Westervik;Hans Marius Martinsen;1;Undirected
+Didrik Leganger;Kim Allgot;1;Undirected
+Kristine Bjartnes;Aslak Røkke;2;Undirected
+Gunnar Bovim;Arvid Hallén;3;Undirected
+Dennis Bogen;Marius Martinsen;2;Undirected
+Odin Drønen;Aslak Røkke;1;Undirected
+Vegard Vefring;Petter Aaslestad;1;Undirected
+Hilde Opoku;Geir Waage;1;Undirected
+Johan Møkkerbakken;Eskild Bakke;1;Undirected
+Dennis Bogen;Gunnar Bovim;1;Undirected
+Per Fridtjof Larssen;Jo Jakobsen;1;Undirected
+Arthur Ribe Rudihagen;Eirik Vågeskar;2;Undirected
+Mats Borch Bugge;Øyvind Bentås;1;Undirected
+Michael Jackson;Morten Qvenild;1;Undirected
+Petter Vågan;Michael Jackson;1;Undirected
+Mikkel Bolstad Dæhli;Dag Herrem;1;Undirected
+Jørgen Benkholt;Ellen Helstad;2;Undirected
+Pål Angelskår;Daniel Kvammen;1;Undirected
+Johan Møkkerbakken;Gabriel Qvigstad;1;Undirected
+Tage Thrana;Jone Trovåg;1;Undirected
+Pål Angelskår;Stian Carstensen;1;Undirected
+Dennis Bogen;Hans Marius Martinsen;2;Undirected
+Martin Næss;Erik Hide Sæternes;3;Undirected
+Mads Bjørgan;Fredrik Lundquist;1;Undirected
+Erling Landet;Jone Trovåg;1;Undirected
+Tore Oksholen;Torbjørn Røe Isaksen;1;Undirected
+Hallvard Holmen;Leonardo DiCaprio;1;Undirected
+Ellen Helstad;Fredrik Oterhals;1;Undirected
+Kim Allgot;Dag Waaler;1;Undirected
+Jan Eggum;Mats Vederhus;1;Undirected
+Gabriel Qvigstad;Erik Sæternes;1;Undirected
+Jonathan Sørfonden;Marius Martinsen;1;Undirected
+Audun Lysbakken;Torbjørn Røe Isaksen;1;Undirected
+Sondre Justad;Fabian Egge;1;Undirected
+Jonathan Sørfonden;Elise Landsem;1;Undirected
+Robin Hood;Are Oust;1;Undirected
+Ivar Kjølseth;Elise Landsem;1;Undirected
+Ole Oftebro;Nils Ole Oftebro;2;Undirected
+Adrian Austevoll;Jonathan Sørfonden;1;Undirected
+Torbjørn Røe Isaksen;Kristoffer Hansen;1;Undirected
+Lars Jacob Eide Helland;Paul Simon;1;Undirected
+Jonas Alaska;Rolf Martin Snustad;1;Undirected
+Gunnar Bovim;Kim Allgot;1;Undirected
+Sondre Stai;Hilde Opoku;1;Undirected
+Jens Bjørneboe;Morten Tyldum;1;Undirected
+Peter Eio;Eirik Vågeskar;2;Undirected
+Øyvind Bentås;Kim Hovden Duong;1;Undirected
+Thor Haugen;Adrian Austevoll;2;Undirected
+Mads Veslelia;Fabian Egge;1;Undirected
+Fabian Egge;Sondre Lerche;1;Undirected
+Daniel Westervik;Marius Martinsen;1;Undirected
+Gunnar Bovim;Torbjørn Røe Isaksen;4;Undirected
+Peter Estdahl;Magne Haneberg;1;Undirected
+Lasse Georg Tønnessen;Mathias Johansson;1;Undirected
+Mats Borch Bugge;Thomas Dybdahl;1;Undirected
+Trond Giske;Øystein Risa;3;Undirected
+Gunnar Bovim;Kristian Døhl;2;Undirected
+Pål Angelskår;Bror Forsgren;1;Undirected
+Morten Wold;Erik Sæternes;1;Undirected
+Tore Oksholen;Jan Frode Hatlen;1;Undirected
+Nicholas Christiansen;Fredrik Oterhals;1;Undirected
+Michael Jackson;Thomas Dybdahl;1;Undirected
+Vebjørn Sand;Morten Tyldum;1;Undirected
+Arvid Hallén;Øystein Risa;3;Undirected
+Gunnar Bovim;Martin Gundersen;1;Undirected
+Magnus Bjerke;Øyvind Bentås;1;Undirected
+Erling Landet;Dag Waaler;1;Undirected
+Martin Gynther Mørkved;Torbjørn Røe Isaksen;1;Undirected
+Erling Landet;Morten Djupdal;1;Undirected
+Elise Landsem;Aksel Tjora;2;Undirected
+Halvard Danielsen;Jonathan Sørfonden;1;Undirected
+Tage Thrana;Kristian Døhl;2;Undirected
+Tobias Linkjendal;Peter Eio;2;Undirected
+Eivind Sandodden Kise;Tore Oksholen;1;Undirected
+Aslak Røkke;Karoline Flåte;2;Undirected
+Elise Landsem;Marius Martinsen;1;Undirected
+Morten Wold;Erik Hide Sæternes;2;Undirected
+Johan Wohlert;Jonas Bjerre;2;Undirected
+Aksel Tjora;Stian Stakset;1;Undirected
+Axel Skalstad;Andreas Winther;1;Undirected
+Gunnar Vartdal;Jonas Halse Rygh;1;Undirected
+Eivind Sandodden Kise;Marius Jones;1;Undirected
+Terje Mørland;Torbjørn Røe Isaksen;1;Undirected
+Hilde Opoku;Tore Dyrendahl;1;Undirected
+Espen Mokkelbost;Magnus Rodahl;1;Undirected
+Dennis Bogen;Adrian Austevoll;1;Undirected
+Daniel Kvammen;Stian Carstensen;1;Undirected
+Herman Hansen;Bror Forsgren;1;Undirected
+Didrik Leganger;Elise Landsem;1;Undirected
+Erik Hagen;Sondre Stai;2;Undirected
+Gunnar Bovim;Jone Trovåg;3;Undirected
+Ivar Kjølseth;Jarle Møller;1;Undirected
+Dennis Bogen;Elise Landsem;1;Undirected
+Rasmus Liestøl;Justin Bieber;1;Undirected
+Morten Qvenild;Abel Tesfaye;1;Undirected
+Martin Næss;Erik Hide Sæterness;2;Undirected
+Didrik Leganger;Thor Haugen;2;Undirected
+Daniel Westervik;Christian Tangene;1;Undirected
+Mats Wawa;Eirik Angård;1;Undirected
+Odin Drønen;Ola Nordmann;1;Undirected
+Jack White;Stian Stakset;1;Undirected
+Herman Hansen;Martin Næss;1;Undirected
+Jakob Aure;Jone Trovåg;1;Undirected
+Tore Oksholen;Vebjørn Selbekk;1;Undirected
+Jonathan Sørfonden;Jone Trovåg;2;Undirected
+Erlend Loe;Karl Ove Knausgård;1;Undirected
+Håvard Bertelsen;Øyvind Bentås;3;Undirected
+Morten Djupdal;Joakim Granli Antonsen;1;Undirected
+Mats Borch Bugge;Bror Forsgren;1;Undirected
+Petter Raaness;Lasse Georg Tønnessen;1;Undirected
+Christian Tangene;Jonathan Sørfonden;1;Undirected
+Mats Borch Bugge;John Olav Nilsen;1;Undirected
+Petter Vågan;Stian Westerhus;1;Undirected
+Fredrik Oterhals;Elise Landsem;1;Undirected
+Didrik Leganger;Hans Marius Martinsen;1;Undirected
+Per Fridtjof Larssen;Gabriel Qvigstad;1;Undirected
+Hans Fredrik Sunde;Gunnar Bovim;1;Undirected
+Mads Veslelia;Erlend Ropstad;1;Undirected
+Daniel Westervik;Didrik Leganger;2;Undirected
+Even Ormestad;Daniel Kvammen;1;Undirected
+Fredrik Bjerkeli;Lars Jacob Eide Helland;2;Undirected
+Daniel Westervik;Dennis Bogen;1;Undirected
+Dag Herrem;Knut Jørgen Vie;1;Undirected
+Petter Vågan;Aleksander Johansen;1;Undirected
+Johannes Bjartnes;Hans Jacob Sandberg;1;Undirected
+Trond Giske;Arvid Hallén;3;Undirected
+Johannes Bjartnes;Ole Henrik Ellestad;1;Undirected
+Nicholas Christiansen;Knut Jørgen Vie;1;Undirected
+Christian Tangene;Aksel Tjora;3;Undirected
+Ellen Helstad;Ivar Kjølseth;1;Undirected
+Eivind Rindal;Nicholas Christiansen;1;Undirected
+Leo Ajkic;Stian Westerhus;1;Undirected
+Morten Stulen;Lars Erik Fagernæs;2;Undirected
+Jo Jakobsen;Gabriel Qvigstad;1;Undirected
+Knut Solberg;Vegard Bilsbak;1;Undirected
+Jonathan Sørfonden;Kim Allgot;1;Undirected
+Marius Martinsen;Kim Allgot;2;Undirected
