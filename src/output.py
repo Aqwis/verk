@@ -26,6 +26,6 @@ def export_to_csv(edge_weights, filename):
 				print(left + ';' + right + ';' + str(int(weight)) + ";Undirected", file=f)
 	print("Wrote graph to CSV file " + filename)
 
-def save_words_to_pickle(words_by_file, filename):
+def pickle_articles(articles, filename):
 	with open(filename, 'wb') as f:
-		pickle.dump(words_by_file, f, pickle.HIGHEST_PROTOCOL)
+		pickle.dump(articles, f, pickle.HIGHEST_PROTOCOL)
