@@ -1,3 +1,5 @@
+import sys
+
 from bs4 import BeautifulSoup
 
 def parse(raw_html, verbose=False):
@@ -14,3 +16,16 @@ def parse(raw_html, verbose=False):
 	    pass
 	lines = list([s.replace('\n', ' ') for s in contents.stripped_strings])
 	return " ".join(lines)
+
+if __name__ == "__main__":
+	infilename = sys.argv[1]
+	outfilename = sys.argv[2]
+
+	infile = open(infilename, 'r')
+	outfile = open(outfilename, 'w')
+
+	result = parse(infile)
+	outfile.write(result + '\n')
+
+	infile.close()
+	outfile.close()
