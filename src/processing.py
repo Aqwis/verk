@@ -20,5 +20,20 @@ def remove_unique_names(names_by_article):
 		for name in f:
 			occurrences[name] += 1
 
+	length_before = 0
+	for a in occurrences:
+		for b in a:
+			length_before += 1
+
 	names_by_article = [[name for name in article_names if occurrences[name] >= 2] for article_names in names_by_article]
+
+	length_after = 0
+	for a in occurrences:
+		for b in a:
+			length_after += 1
+
+	if arguments.verbose:
+		print('Before: ' + str(length_before))
+		print('After: ' + str(length_after))
+
 	return names_by_article
